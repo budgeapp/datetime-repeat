@@ -18,7 +18,9 @@ classifiers = [
     "Typing :: Typed",
 ]
 requires-python = "~=3.10"
-dependencies = []
+dependencies = [
+    "tzdata; platform_system == 'Windows' or platform_system == 'AIX'",
+]
 
 [build-system]
 requires = ["hatchling"]

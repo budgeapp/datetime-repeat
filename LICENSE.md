@@ -156,4 +156,4 @@ apply, that proxy's public statement of acceptance of any version is
 permanent authorization for you to choose that version for the
 Library.
 
-[gpl]: https://github.com/budgeapp/budge/blob/trunk/LICENSE-GPL.md
+[gpl]: https://github.com/budgeapp/datetime-repeat/blob/trunk/LICENSE-GPL.md
